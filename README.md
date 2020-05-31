@@ -12,3 +12,7 @@ asciicast2gif -S 1 -s 2 ${CAST_FILE}.cast ${CAST_FILE}.gif
 
 ![demo-01-hello-world](https://raw.githubusercontent.com/GTB-training/C-cli-demo/master/demo-01-hello-world.gif)
 
+### demo-02-custom-name
+
+![demo-02-custom-name](/demo-02-custom-name.gif)
+
